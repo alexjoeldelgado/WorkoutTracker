@@ -1,5 +1,5 @@
 # WorkoutTracker
-This application will allow a consumer will reach their fitness goals by tracking their workout progress.
+This application will allow a consumer to reach their fitness goals by tracking their workout progress.
 
 ## Description
 The application tracks the users' workouts by have the user input the name, type, and duration of an exercise. If the type is cardio, distance is measured. If the type is resistance, weight, reps, and sets are measured. The user will also be able view their achieved workout goals in bar graph and pie graph formats. 
